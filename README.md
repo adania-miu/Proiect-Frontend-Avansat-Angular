@@ -5,3 +5,5 @@
 1.	Datele personale ale utilizatorului (nume, prenume, adresa de mail etc.).
 2.	Datele cardului/cardurilor salvate pentru a facilita actiunile utilizatorului.
 3.	Date cu priviere la platile/transferurile efectuate (suma, destinatarul, data).
+
+Video demo: https://www.youtube.com/watch?v=j8KYWGtG56w

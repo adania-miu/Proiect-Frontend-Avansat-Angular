@@ -1,0 +1,42 @@
+<div class="container">
+  <h1 class="title">
+    Add Card
+  </h1>
+
+  <form [formGroup]="cardForm" class="form">
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Username</mat-label>
+      <input matInput formControlName="username"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Pin</mat-label>
+      <input matInput formControlName="pin"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>CVV</mat-label>
+      <input matInput formControlName="cvv"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Expiration Month</mat-label>
+      <input matInput formControlName="monthExp"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Expiration Year</mat-label>
+      <input matInput formControlName="yearExp"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Sold</mat-label>
+      <input matInput formControlName="sold"/>
+    </mat-form-field>
+
+  </form>
+
+  <button mat-raised-button color="primary" (click)="addCard()" appHoverBtn>
+    Save
+  </button>
+</div>

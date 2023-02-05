@@ -1,0 +1,27 @@
+<div class="container">
+  <h1 class="title">
+    Add Money from a Card
+  </h1>
+
+  <form [formGroup]="formGroup" class="form">
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Your Username</mat-label>
+      <input matInput formControlName="username"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>ID Card</mat-label>
+      <input matInput formControlName="idCard"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Amount</mat-label>
+      <input matInput formControlName="amount"/>
+    </mat-form-field>
+
+  </form>
+
+  <button mat-raised-button color="primary" (click)="addFromCard()" appHoverBtn>
+    Add Money
+  </button>
+</div>

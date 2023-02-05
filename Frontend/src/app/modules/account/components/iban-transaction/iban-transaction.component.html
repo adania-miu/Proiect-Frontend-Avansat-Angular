@@ -1,0 +1,28 @@
+<div class="container">
+  <h1 class="title">
+    Transaction Details:
+  </h1>
+
+  <form [formGroup]="transactionForm" class="form">
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Your IBAN</mat-label>
+      <input matInput formControlName="IBAN1"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Amount</mat-label>
+      <input matInput formControlName="suma"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Send to IBAN</mat-label>
+      <input matInput formControlName="IBAN2"/>
+    </mat-form-field>
+
+  </form>
+
+  <button mat-raised-button color="primary" (click)="sendIBAN()" appHoverBtn>
+    Send Money
+  </button>
+</div>
+

@@ -1,0 +1,22 @@
+<div class="container">
+  <h1 class="title">
+    Add Friend
+  </h1>
+
+  <form [formGroup]="friendForm" class="form">
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Your Username</mat-label>
+      <input matInput formControlName="username1"/>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" color="primary">
+      <mat-label>Add Friend Username</mat-label>
+      <input matInput formControlName="username2"/>
+    </mat-form-field>
+
+  </form>
+
+  <button mat-raised-button color="primary" (click)="addFriend()" appHoverBtn>
+    Add
+  </button>
+</div>

@@ -1,0 +1,40 @@
+#logo {
+  color: #673ab7;
+  text-decoration: none;
+}
+
+#logo:visited {
+  color: #673ab7;
+}
+
+mat-toolbar .spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar {
+  gap: 0.5rem;
+}
+
+
+.container {
+  margin: 1rem auto;
+  max-width: 20rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.error {
+  color: red;
+}
+
+.btn-login mat-progress-bar {
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 50%;
+  width: 90%;
+}

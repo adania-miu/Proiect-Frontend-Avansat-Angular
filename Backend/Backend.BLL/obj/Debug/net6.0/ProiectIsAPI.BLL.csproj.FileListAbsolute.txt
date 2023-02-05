@@ -1,0 +1,85 @@
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.deps.json
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.runtimeconfig.json
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.dll
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.pdb
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.AssemblyReference.cache
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfoInputs.cache
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfo.cs
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CoreCompileInputs.cache
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CopyComplete
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\refint\ProiectIsAPI.BLL.dll
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.genruntimeconfig.cache
+C:\ProiectIS\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ref\ProiectIsAPI.BLL.dll
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.deps.json
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.runtimeconfig.json
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.dll
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.pdb
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.AssemblyReference.cache
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfoInputs.cache
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfo.cs
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CoreCompileInputs.cache
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CopyComplete
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\refint\ProiectIsAPI.BLL.dll
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.genruntimeconfig.cache
+C:\GitReps\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ref\ProiectIsAPI.BLL.dll
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.deps.json
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.runtimeconfig.json
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.dll
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.pdb
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.AssemblyReference.cache
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfoInputs.cache
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfo.cs
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CoreCompileInputs.cache
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CopyComplete
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\refint\ProiectIsAPI.BLL.dll
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.genruntimeconfig.cache
+C:\git\proiect-inginerie-software-is-too-easy\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ref\ProiectIsAPI.BLL.dll
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.deps.json
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.runtimeconfig.json
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.dll
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.pdb
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.AssemblyReference.cache
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfoInputs.cache
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfo.cs
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CoreCompileInputs.cache
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CopyComplete
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\refint\ProiectIsAPI.BLL.dll
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.genruntimeconfig.cache
+C:\Users\adani\Desktop\Proiect ASP\ProiectIsAPI\ProiectIsAPI.BLL\obj\Debug\net6.0\ref\ProiectIsAPI.BLL.dll
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.deps.json
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.runtimeconfig.json
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.dll
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\bin\Debug\net6.0\ProiectIsAPI.DAL.pdb
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.AssemblyReference.cache
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfoInputs.cache
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.AssemblyInfo.cs
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CoreCompileInputs.cache
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.csproj.CopyComplete
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.dll
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\refint\ProiectIsAPI.BLL.dll
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.pdb
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ProiectIsAPI.BLL.genruntimeconfig.cache
+C:\Users\adani\Desktop\Proiect ASP\Backend\ProiectIsAPI.BLL\obj\Debug\net6.0\ref\ProiectIsAPI.BLL.dll

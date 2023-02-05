@@ -1,0 +1,25 @@
+<mat-toolbar>
+  <button mat-icon-button (click)="toggleSidenav()">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <a id="logo">EasyCard</a>
+</mat-toolbar>
+
+<mat-sidenav-container>
+  <mat-sidenav #sidenav mode="side" opened>
+    <ul>
+      <li><a routerLink="/cards" mat-raised-button color="primary">Cards</a></li>
+      <li><a routerLink="/transactions" mat-raised-button color="primary">Transactions</a></li>
+      <li><a routerLink="/friends" mat-raised-button color="primary">Friends</a></li>
+      <li><a routerLink="/profile" mat-raised-button color="primary">Profile</a></li>
+    </ul>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <main>
+      <ul>
+        <li><button mat-raised-button (click)="sendToUser()" color="primary">Send money to another user</button></li>
+        <li><button mat-raised-button (click)="sendToIBAN()" color="primary">Send money to an IBAN</button></li>
+      </ul>
+    </main>
+  </mat-sidenav-content>
+</mat-sidenav-container>
